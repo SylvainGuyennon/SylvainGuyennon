@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SylvainGuyennon
 - 👀 I’m interested in Video games, opera and cooking
-- 🌱 I’m currently learning BI tools
-- 💞️ I’m looking to collaborate on data analysis
+- 🌱 I’m currently learning BI and RPA tools
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me : s.guyennon@gmail.com
 
 <!---
